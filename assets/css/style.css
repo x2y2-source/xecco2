@@ -647,6 +647,10 @@ label {
     transform: scale(1);
 }
 
+.footer-shape-wrap img {
+	display: none !important;
+}
+
 .sticky-menu {
     position: fixed;
     left: 0;
